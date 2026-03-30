@@ -25,8 +25,3 @@ sharda.ashish26@gmail.com
 Free
 ```
 
-Then scroll down → click **"Commit changes"** → **"Commit directly to main"** → **"Commit changes"**
-
-Then use this URL for documentation:
-```
-https://github.com/ashishjsharda/sprintlens
